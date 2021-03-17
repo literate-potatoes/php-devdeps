@@ -1,0 +1,13 @@
+{
+    "name": "kamal/php-devdeps",
+    "require-dev": {
+        "alrik11es/cowsayphp": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Kamal Nasser",
+            "email": "kamal@digitalocean.com"
+        }
+    ],
+    "require": {}
+}
