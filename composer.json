@@ -9,5 +9,7 @@
             "email": "kamal@digitalocean.com"
         }
     ],
-    "require": {}
+    "require": {
+		"php": "^8.0.0"
+	}
 }
